@@ -47,6 +47,8 @@ data change notifications.
 A [User's Guide](https://mryslab.github.io/telemetrix-esp32/) explaining 
 [installation](https://mryslab.github.io/telemetrix-esp32/install_telemetrix/) and use is available online.
 
+If you wish to extend Telemetrix's capabilities, a tutorial on how to do so is [available](https://mryslab.github.io/bits-n-bots/2025/05/20/telemetrix-under-the-hood--part-1/).
+
 
 A complete set of examples is included. 
 Use the horizontal scroll bar at the bottom of the features' table to view all the links.
